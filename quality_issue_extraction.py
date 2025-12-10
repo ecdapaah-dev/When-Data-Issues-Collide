@@ -14,8 +14,8 @@ Requirements:
 - pymfe
 - matplotlib
 
-Author: [Your Name]
-Date: [Current Date]
+Author: Emmanuel Charleson Dapaah
+Date: 05.09.2025
 Version: 1.1
 
 Usage:
