@@ -5,8 +5,8 @@ This script analyzes the relationship between data quality metrics and classifie
 using Explainable Boosting Machine models. It trains separate EBM models for different 
 classifiers to predict balanced accuracy based on data quality characteristics.
 
-Author: [Your Name]
-Date: [Date]
+Author: Emmanuel Charleson Dapaah
+Date: 05.09.2025
 Purpose: Replication kit for journal paper on data quality impact analysis
 
 Dependencies:
